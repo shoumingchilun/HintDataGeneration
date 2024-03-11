@@ -1,0 +1,6 @@
+server:
+  port: 8072
+chatgpt:
+  token: #脱敏
+  base-url: #脱敏
+  chat-model: gpt-3.5-turbo
